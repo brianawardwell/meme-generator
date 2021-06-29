@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/brianawardwell.github.io/meme-generator/static/js/main.67b840af.chunk.js",
-    "main.js.map": "/brianawardwell.github.io/meme-generator/static/js/main.67b840af.chunk.js.map",
-    "runtime-main.js": "/brianawardwell.github.io/meme-generator/static/js/runtime-main.2f4201dd.js",
-    "runtime-main.js.map": "/brianawardwell.github.io/meme-generator/static/js/runtime-main.2f4201dd.js.map",
-    "static/js/2.e251c3ac.chunk.js": "/brianawardwell.github.io/meme-generator/static/js/2.e251c3ac.chunk.js",
-    "static/js/2.e251c3ac.chunk.js.map": "/brianawardwell.github.io/meme-generator/static/js/2.e251c3ac.chunk.js.map",
-    "index.html": "/brianawardwell.github.io/meme-generator/index.html",
-    "static/js/2.e251c3ac.chunk.js.LICENSE.txt": "/brianawardwell.github.io/meme-generator/static/js/2.e251c3ac.chunk.js.LICENSE.txt"
+    "main.js": "/brianawardwell/meme-generator/static/js/main.67b840af.chunk.js",
+    "main.js.map": "/brianawardwell/meme-generator/static/js/main.67b840af.chunk.js.map",
+    "runtime-main.js": "/brianawardwell/meme-generator/static/js/runtime-main.eb91520b.js",
+    "runtime-main.js.map": "/brianawardwell/meme-generator/static/js/runtime-main.eb91520b.js.map",
+    "static/js/2.e251c3ac.chunk.js": "/brianawardwell/meme-generator/static/js/2.e251c3ac.chunk.js",
+    "static/js/2.e251c3ac.chunk.js.map": "/brianawardwell/meme-generator/static/js/2.e251c3ac.chunk.js.map",
+    "index.html": "/brianawardwell/meme-generator/index.html",
+    "static/js/2.e251c3ac.chunk.js.LICENSE.txt": "/brianawardwell/meme-generator/static/js/2.e251c3ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f4201dd.js",
+    "static/js/runtime-main.eb91520b.js",
     "static/js/2.e251c3ac.chunk.js",
     "static/js/main.67b840af.chunk.js"
   ]
